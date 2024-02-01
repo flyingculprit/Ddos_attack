@@ -28,5 +28,3 @@ def attack():
         print(attack_num)
         
         s.close()
-
-    #dont try this

